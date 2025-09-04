@@ -29,5 +29,5 @@ A compact Excel-based financial model for **ITC Ltd.** that contains cleaned his
 - The model is intended for analysis and educational purposes only and is not professional investment advice.
 
 **Author**
-(Your name or GitHub handle)
+Aman Aziz Siddiqui
 
